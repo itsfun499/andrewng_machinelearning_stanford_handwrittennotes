@@ -1,6 +1,3 @@
-# andrewng_machinelearning_stanford_handwrittennotesfdjjkdj
+# andrewng_machinelearning_stanford_handwrittennotes
 
 
-
-
-adsjdfjajdsfkjdfsj
